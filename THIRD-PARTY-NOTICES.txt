@@ -1,0 +1,29 @@
+LEO OS — third-party notices and acknowledgements
+
+LEO OS is © 2026 Luay Awad. It includes or builds on the following open-source work, which keeps its
+own licence. Thank you to all of these projects.
+
+BYDMate — vehicle protocol research, command catalogue and integration ideas
+  Required Notice: Copyright AndyShaman (https://github.com/AndyShaman/BYDMate)
+  Copyright (C) 2026 AndyShaman
+  PolyForm Noncommercial License 1.0.0. Full licence: BYDMate-LICENSE.txt.
+  Because of this licence, LEO OS is distributed free of charge and for noncommercial use only.
+
+whisper.cpp — offline speech recognition engine
+  Copyright (c) 2023-2026 The ggml authors. MIT License. https://github.com/ggml-org/whisper.cpp
+  Whisper speech models (downloaded on first use): Copyright (c) 2022 OpenAI, MIT License.
+
+AndroidX and Media3 (ExoPlayer) — Copyright The Android Open Source Project. Apache License 2.0.
+  Full licence: Apache-2.0.txt.
+
+LLVM libc++ — Apache License 2.0 with LLVM Exceptions.
+
+hls.js — Copyright (c) 2017 Dailymotion. Apache License 2.0.
+mpegts.js — Copyright (C) 2016 Bilibili, Copyright (C) 2021 xqq. Apache License 2.0.
+
+Michroma font — Copyright Vernon Adams. SIL Open Font License 1.1.
+Chakra Petch font — Copyright Cadson Demak. SIL Open Font License 1.1.
+
+BYD, Leopard (方程豹) and their logos and vehicle images are trademarks and property of BYD Company
+Limited, used only to identify the vehicle LEO OS works with. LEO OS is an independent project and is
+not affiliated with or endorsed by BYD.
